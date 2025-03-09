@@ -1,0 +1,6 @@
+docker
+requests
+fpdf
+typing
+csv
+json
